@@ -1,4 +1,4 @@
-Sqlmap para gente perezosa
+
 Sqlmap para gente perezosa
 
 Un avanzado herramientas de inyección SQL que funcionan con SQLMAP para que sea más efectiva.Tiene más de 12 scripts de manipulación precomisados ​​para ejecutarse con un solo clic.
