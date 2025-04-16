@@ -7,10 +7,16 @@ Cómo instalar
 Para instalarlo en Kali Linux y otros sistemas operativos de Linux, consulte este artículo-https://www.kalilinux.in/2019/03/advanced-sql-inject-in-easy-stapes.html
 
 clone o baje la herramienta LazySQLI
+
 descomprimir la herramienta
+
 cd Lazysqli
+
 chmod +x Lazysqli
+
 ./Lazysqli
+
+Happy Hacking ;)
 
 No se necesitan requisitos :) Instalará todo, por lo que para el primer inicio tomará 2-3 minutos para comenzar, pero luego la próxima vez se ejecutará al instante.
 
